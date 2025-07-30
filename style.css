@@ -63,6 +63,12 @@ body {
   text-shadow: 0 0 6px rgba(78, 168, 222, 0.3);
 }
 
+.sub {
+  font-size: 15px;
+  margin-top: 4px;
+  opacity: 0.85;
+}
+
 #switch {
   position: relative;
   width: 64px;
